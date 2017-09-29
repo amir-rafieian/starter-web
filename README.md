@@ -10,7 +10,7 @@ Sample website with plenty of files for demos used mainly for training
 Its sample bootstrap based page
 
 ## How To Contribute
-N/A
+Fork this repository 
 
 ### Copyright
 Git course
