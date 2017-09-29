@@ -11,3 +11,6 @@ Its sample bootstrap based page
 
 ## How To Contribute
 N/A
+
+### Copyright
+Git course
