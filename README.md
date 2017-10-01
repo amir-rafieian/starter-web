@@ -15,4 +15,4 @@ Its sample bootstrap based page
 Fork this repository 
 
 ### Copyright
-Git course
+Git course. Check stashing
