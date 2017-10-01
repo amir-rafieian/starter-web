@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-# Changed for stashing
+# Changed for stashing in branches
 
 # TEAM
 
